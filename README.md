@@ -1,1 +1,1 @@
-It is a demo website created by react for doctors.
+It is a demo website created using react for doctors.
